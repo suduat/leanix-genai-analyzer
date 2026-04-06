@@ -23,15 +23,19 @@ This tool does it in few minutes:
 
 ---
 
-## Screenshots
+## Sample output
 
-> Upload → Dashboard → AI Report
+A real AI-generated rationalization report from the included 30-app sample portfolio:
 
-**Portfolio rationalization quadrant**
-*(screenshot: scatter_quadrant.png)*
+📄 **[View sample PDF report](docs/sample_report.pdf)**
 
-**AI-generated rationalization report**
-*(screenshot: ai_report.png)*
+The report includes:
+- Executive summary for CTO audience
+- Retire recommendations with estimated savings
+- Modernize priorities with recommended approaches      
+- Key risks and mitigations
+- Quick wins
+- Portfolio charts: quadrant scatter, lifecycle breakdown, cost by hosting, capability heatmap
 
 ---
 
