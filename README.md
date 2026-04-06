@@ -27,7 +27,7 @@ This tool does it in few minutes:
 
 A real AI-generated rationalization report from the included 30-app sample portfolio:
 
-📄 **[View sample PDF report](docs/sample_report.pdf)**
+📄 **[View sample PDF report](docs/screenshots/portfolio_rationalization_report.pdf)**
 
 The report includes:
 - Executive summary for CTO audience
