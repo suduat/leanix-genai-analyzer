@@ -1,0 +1,31 @@
+app_name,business_capability,lifecycle_stage,tech_debt_score,business_value_score,annual_cost_usd,hosting_type,last_updated_year,owner_team
+SAP ERP Core,Finance & Accounting,Active,7,9,850000,On-Premise,2019,Finance IT
+Salesforce CRM,Customer Management,Active,3,10,420000,SaaS,2024,Sales Ops
+Legacy HR Portal,HR Management,Phase Out,9,4,180000,On-Premise,2015,HR IT
+ServiceNow ITSM,IT Service Management,Active,2,8,310000,SaaS,2024,IT Ops
+Oracle Financials,Finance & Accounting,Phase Out,8,6,640000,On-Premise,2017,Finance IT
+Custom Billing Engine,Billing & Revenue,Active,9,8,290000,On-Premise,2016,Finance IT
+Workday HCM,HR Management,Phase In,1,9,510000,SaaS,2024,HR IT
+MuleSoft ESB,Integration,Active,6,9,380000,On-Premise,2020,Integration Team
+AWS API Gateway,Integration,Active,1,8,95000,Cloud,2024,Platform Team
+Legacy Inventory System,Supply Chain,End of Life,10,3,120000,On-Premise,2012,Supply Chain IT
+Tableau Dashboards,Analytics & BI,Active,2,7,195000,SaaS,2023,Data Team
+Custom Reporting Tool,Analytics & BI,Phase Out,8,3,85000,On-Premise,2014,Finance IT
+Kafka Event Bus,Integration,Active,2,9,145000,Cloud,2023,Platform Team
+SharePoint Intranet,Collaboration,Active,5,5,165000,On-Premise,2018,IT Ops
+MS Teams,Collaboration,Active,1,9,210000,SaaS,2024,IT Ops
+Legacy CRM v1,Customer Management,End of Life,10,2,95000,On-Premise,2011,Sales Ops
+AWS Data Lake,Analytics & BI,Active,1,9,320000,Cloud,2024,Data Team
+Custom Procurement,Procurement,Active,7,5,175000,On-Premise,2016,Procurement IT
+Coupa Procurement,Procurement,Phase In,1,8,285000,SaaS,2024,Procurement IT
+Legacy Payroll,HR Management,Phase Out,9,5,140000,On-Premise,2013,HR IT
+Snowflake DWH,Analytics & BI,Active,1,10,480000,Cloud,2024,Data Team
+Custom EDI Gateway,Integration,Phase Out,8,6,130000,On-Premise,2015,Integration Team
+Zendesk Support,Customer Management,Active,2,7,175000,SaaS,2023,Customer Success
+Legacy Asset Mgmt,Asset Management,End of Life,9,3,110000,On-Premise,2013,IT Ops
+ServiceMax FSM,Field Service,Active,4,7,220000,SaaS,2022,Operations
+Custom Approval Engine,Finance & Accounting,Phase Out,7,4,90000,On-Premise,2015,Finance IT
+Power BI Embedded,Analytics & BI,Phase In,1,7,145000,Cloud,2024,Data Team
+Legacy Document Store,Content Management,Phase Out,8,3,80000,On-Premise,2014,IT Ops
+Veeva CRM,Life Sciences,Active,2,9,395000,SaaS,2023,Commercial IT
+Custom Risk Dashboard,Risk & Compliance,Active,6,7,160000,On-Premise,2018,Risk IT
