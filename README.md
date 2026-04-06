@@ -1,6 +1,6 @@
 # LeanIX GenAI Portfolio Analyzer
 
-> Reduce 3-week application portfolio rationalization to 2 minutes using GenAI + LeanIX data.
+> Reduce 3-week application portfolio rationalization to few minutes using GenAI + LeanIX data.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
@@ -14,7 +14,7 @@
 Enterprise architects spend 3–6 weeks manually analyzing application portfolios —
 running workshops, building spreadsheets, and producing rationalization recommendations.
 
-This tool does it in under 2 minutes:
+This tool does it in few minutes:
 
 1. Upload a LeanIX-style portfolio CSV (or use the included sample with 30 apps)
 2. Claude analyzes tech debt, business value, cost, and lifecycle data
